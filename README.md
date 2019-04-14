@@ -2,7 +2,7 @@
 Run MS17-010 modified exploit to get reverse nc connection
 
 Modified Code
-Change LHOSt and LPORT. This is your IP address and port where you are listening.
+Change LHOST and LPORT. This is your IP address and port where you are listening.
 nc.exe is in same folder where your script.
 
 
