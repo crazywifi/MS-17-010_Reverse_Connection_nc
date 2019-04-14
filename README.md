@@ -4,7 +4,7 @@
 ##### Change LHOST and LPORT. This is your IP address and port where you are listening.
 ##### nc.exe is in same folder where you saved the script.
 
-####Modified Code
+#### Modified Code
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 def smb_pwn(conn, arch):
