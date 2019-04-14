@@ -1,5 +1,5 @@
 # MS-17-010_Reverse_Connection_nc
-Run MS17-010 modified exploit to get reverse nc connection
+#### Run MS17-010 modified exploit to get reverse nc connection
 
 Modified Code
 Change LHOST and LPORT. This is your IP address and port where you are listening.
@@ -28,4 +28,4 @@ def smb_send_file(smbConn, localSrc, remoteDrive, remotePath):
 		smbConn.putFile(remoteDrive + '$', remotePath, fp.read)
 
 
-![Alt Text](https://giant.gfycat.com/HappygoluckyEdibleHummingbird.webm)
+![alt text](https://giant.gfycat.com/HappygoluckyEdibleHummingbird.webm)
