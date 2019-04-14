@@ -28,4 +28,6 @@ def smb_send_file(smbConn, localSrc, remoteDrive, remotePath):
 		smbConn.putFile(remoteDrive + '$', remotePath, fp.read)
 
 
-![alt text](https://giant.gfycat.com/HappygoluckyEdibleHummingbird.webm)
+POC: https://giant.gfycat.com/HappygoluckyEdibleHummingbird.webm
+
+![Alt Text](https://giant.gfycat.com/HappygoluckyEdibleHummingbird.gif)
