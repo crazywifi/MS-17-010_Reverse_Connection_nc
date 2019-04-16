@@ -1,5 +1,6 @@
 # MS-17-010_Reverse_Connection_nc
 #### Run MS17-010 modified exploit to get reverse nc connection
+#### Original: https://github.com/worawit/MS17-010
 
 ##### Change LHOST and LPORT. This is your IP address and port where you are listening.
 ##### nc.exe is in same folder where you saved the script.
