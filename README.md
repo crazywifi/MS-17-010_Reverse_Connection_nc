@@ -37,4 +37,4 @@ def smb_send_file(smbConn, localSrc, remoteDrive, remotePath):
 
 POC: https://giant.gfycat.com/HappygoluckyEdibleHummingbird.webm
 
-![Alt Text](https://giant.gfycat.com/HappygoluckyEdibleHummingbird.gif)
+
